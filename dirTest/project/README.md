@@ -1,5 +1,5 @@
 <h1>EVALUACIÓN 1</h1>
- se hizo copia del repositorio, se edito dirTest, se hizo commit y se   edito el readme
+ se hizo copia del repositorio, se edito dirTest, se hizo commit y se   edito el README
  ![alt text](https://i.imgur.com/XN47CR3.jpeg)
  <h2>COMANDOS PARA GIT</h2>
  - Clonar tu repositorio de la evaluación = git clone "vinculo del archivo"
